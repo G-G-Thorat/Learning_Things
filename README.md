@@ -1,2 +1,2 @@
 # Learning_Things
-This repo is just for reference of learning stuff to use it in projects.
+This repo contains projects, files, APIs for learning for creating great Python or ML Projects.
